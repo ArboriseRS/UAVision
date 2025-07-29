@@ -1,0 +1,4 @@
+top_left_lon,22.454706
+top_left_lat,60.406481
+bottom_right_lon,22.468339
+bottom_right_lat,60.401722
